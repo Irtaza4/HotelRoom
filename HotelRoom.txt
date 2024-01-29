@@ -6,7 +6,9 @@ string customerName;
 string Roomno;
 string
 
-void detailHotel();
+void detailHotel(){
+cout<<"detailHotel";
+}
 void displayRooms();
 void bookRoom();
 void displayBookings();
