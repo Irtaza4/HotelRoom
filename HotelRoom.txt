@@ -1,0 +1,25 @@
+#include<iostream>
+using namespace std;
+class hotelroom{
+public:
+string customerName;
+string Roomno;
+string
+
+void detailHotel();
+void displayRooms();
+void bookRoom();
+void displayBookings();
+
+
+
+
+};
+
+
+int main()
+{
+
+
+return 0;
+}
